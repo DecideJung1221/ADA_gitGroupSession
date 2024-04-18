@@ -21,6 +21,7 @@ struct ContentView: View {
         Text("branch Test")
         Text("branch Test")
         Text("branch Test")
+        Text("rererererer test")
     }
 
     private func addItem() {
