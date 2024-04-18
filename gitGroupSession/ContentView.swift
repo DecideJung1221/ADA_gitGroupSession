@@ -13,9 +13,14 @@ struct ContentView: View {
     @Query private var items: [Item]
 
     var body: some View {
-        Image(systemName: "globe")
+        Text("branch Test")
             .foregroundColor(.blue)
         Text("Hello Git Session")
+        Text("branch Test")
+        Text("branch Test")
+        Text("branch Test")
+        Text("branch Test")
+        Text("branch Test")
     }
 
     private func addItem() {
